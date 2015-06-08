@@ -23,10 +23,6 @@ To build the themes, `cd` into `./build` and install the dependencies with [Comp
 php composer.phar install  
 ```
 
-```sh
-php run.php raincolour
-``
-
 Then run Raincolor (still from `./build`) to populate `./export` with the themes, screenshots and HTML previews:
 
 ```sh
