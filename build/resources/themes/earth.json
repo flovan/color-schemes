@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Earth",
+        "description":      "Earth",
+        "author":           "Florian Vanthuyne",
+        "slug":             "earth",
+        "type":             "dark"
+    },
+
+    "background":               "#16153D",
+    "foreground":               "#D1D1D1",
+    "first":                    "#A9A8A6",
+    "second":                   "#857659",
+    "third":                    "#77A8BC",
+    "fourth":                   "#BF7F2A",
+    "fifth":                    "#2A6CA5",
+    "comment":                  "#2E4E5B",
+    "string":                   "#35842D",
+    "number":                   "#857659",
+    "selection_foreground":     "#FFFFFF",
+    "selection_background":     "#418367",
+    "selection_border":         "#418367",
+    "find_foreground":          "#FFFFFF",
+    "find_background":          "#418367",
+    "line_highlight":           "#1F1E4B",
+    "caret":                    "#FFFFFF",
+    "invisibles":               "#1F1E4B",
+    "scope_guide":              "#2E4E5B",
+    "brackets":                 "#2E4E5B",
+    "bracket_content":          "#857659",
+    "invalid_foreground":       "#FFFFFF",
+    "invalid_background":       "#B12100",
+    "docblock":                 "#2E4E5B",
+    "variables":                "#857659"
+}

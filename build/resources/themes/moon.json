@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Moon",
+        "description":      "Moon",
+        "author":           "Florian Vanthuyne",
+        "slug":             "moon",
+        "type":             "dark"
+    },
+
+    "background":               "#232323",
+    "foreground":               "#E2E4A5",
+    "first":                    "#666666",
+    "second":                   "#a2a2a2",
+    "third":                    "#444444",
+    "fourth":                   "#696651",
+    "fifth":                    "#FFFFFF",
+    "comment":                  "#424242",
+    "string":                   "#FFFFFF",
+    "number":                   "#FFFFFF",
+    "selection_foreground":     "#1A1A1A",
+    "selection_background":     "#FFFFFF",
+    "selection_border":         "#FFFFFF",
+    "find_foreground":          "#1A1A1A",
+    "find_background":          "#FFFFFF",
+    "line_highlight":           "#1F1F1F",
+    "caret":                    "#FFFFFF",
+    "invisibles":               "#1F1F1F",
+    "scope_guide":              "#424242",
+    "brackets":                 "#424242",
+    "bracket_content":          "#a2a2a2",
+    "invalid_foreground":       "#FFFFFF",
+    "invalid_background":       "#B12100",
+    "docblock":                 "#424242",
+    "variables":                "#a2a2a2"
+}

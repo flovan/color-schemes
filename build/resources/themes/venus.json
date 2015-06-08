@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Venus",
+        "description":      "Venus",
+        "author":           "Florian Vanthuyne",
+        "slug":             "venus",
+        "type":             "dark"
+    },
+
+    "background":               "#3E1B00",
+    "foreground":               "#FFD476",
+    "first":                    "#DAA53B",
+    "second":                   "#A15612",
+    "third":                    "#CD8F2C",
+    "fourth":                   "#d14d12",
+    "fifth":                    "#FFFFFF",
+    "comment":                  "#732F0A",
+    "string":                   "#CD8F2C",
+    "number":                   "#CD8F2C",
+    "selection_foreground":     "#FFFFFF",
+    "selection_background":     "#2A1500",
+    "selection_border":         "#2A1500",
+    "find_foreground":          "#FFFFFF",
+    "find_background":          "#2A1500",
+    "line_highlight":           "#441f03",
+    "caret":                    "#FFFFFF",
+    "invisibles":               "#441f03",
+    "scope_guide":              "#732F0A",
+    "brackets":                 "#732F0A",
+    "bracket_content":          "#A15612",
+    "invalid_foreground":       "#FFFFFF",
+    "invalid_background":       "#B12100",
+    "docblock":                 "#732F0A",
+    "variables":                "#A15612"
+}

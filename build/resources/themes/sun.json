@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Sun",
+        "description":      "Sun",
+        "author":           "Florian Vanthuyne",
+        "slug":             "sun",
+        "type":             "dark"
+    },
+
+    "background":               "#211109",
+    "foreground":               "#FEFDAB",
+    "first":                    "#D38B56",
+    "second":                   "#C54305",
+    "third":                    "#A72C0A",
+    "fourth":                   "#E67E22",
+    "fifth":                    "#FEFDAB",
+    "comment":                  "#4E320A",
+    "string":                   "#F7F040",
+    "number":                   "#F7F040",
+    "selection_foreground":     "#FFFFFF",
+    "selection_background":     "#C64907",
+    "selection_border":         "#C64907",
+    "find_foreground":          "#FFFFFF",
+    "find_background":          "#C64907",
+    "line_highlight":           "#241007",
+    "caret":                    "#FFFFFF",
+    "invisibles":               "#241007",
+    "scope_guide":              "#4E320A",
+    "brackets":                 "#4E320A",
+    "bracket_content":          "#C54305",
+    "invalid_foreground":       "#FFFFFF",
+    "invalid_background":       "#B12100",
+    "docblock":                 "#4E320A",
+    "variables":                "#C54305"
+}

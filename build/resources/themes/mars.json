@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Mars",
+        "description":      "Mars",
+        "author":           "Florian Vanthuyne",
+        "slug":             "mars",
+        "type":             "dark"
+    },
+
+    "background":               "#4F4A44",
+    "foreground":               "#E0D5D1",
+    "first":                    "#ac8269",
+    "second":                   "#C48269",
+    "third":                    "#8D6A56",
+    "fourth":                   "#d38b56",
+    "fifth":                    "#edbf97",
+    "comment":                  "#6D5B4F",
+    "string":                   "#CC7F17",
+    "number":                   "#CC7F17",
+    "selection_foreground":     "#FFFFFF",
+    "selection_background":     "#8B634A",
+    "selection_border":         "#8B634A",
+    "find_foreground":          "#FFFFFF",
+    "find_background":          "#8B634A",
+    "line_highlight":           "#564F4D",
+    "caret":                    "#FFFFFF",
+    "invisibles":               "#564F4D",
+    "scope_guide":              "#6D5B4F",
+    "brackets":                 "#6D5B4F",
+    "bracket_content":          "#C48269",
+    "invalid_foreground":       "#FFFFFF",
+    "invalid_background":       "#B12100",
+    "docblock":                 "#6D5B4F",
+    "variables":                "#C48269"
+}

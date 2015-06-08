@@ -2,35 +2,35 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Dayle Rees Colour Scheme Previews</title>
+    <title>Interstellar Color Scheme Previews</title>
     <style>
 
     body {
-        background-color:#222;
-        margin:0;
+        background-color: #222;
+        margin: 0;
     }
 
     pre {
-        font-size:0.7em;
-        margin:0;
-        overflow:hidden;
+        font-size: 0.7em;
+        margin: 0;
+        overflow: hidden;
     }
 
     h1 {
-        font-family:sans-serif;
-        padding:1em 0.5em;
-        overflow:hidden;
-        margin:0;
-        line-height:1em;
-        font-size:0.8em;
+        font-family: Helvetica Neue;
+        padding: 1em 0.5em;
+        overflow: hidden;
+        margin: 0;
+        line-height: 1em;
+        font-size: 0.8em;
     }
 
     @media screen and (max-width: 420px) {
         body {
-            font-size:0.5em;
+            font-size: 0.5em;
         }
         pre {
-            overflow:scroll;
+            overflow: scroll;
         }
     }
 

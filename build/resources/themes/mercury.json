@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "name":             "Mercury",
+        "description":      "Mercury",
+        "author":           "Florian Vanthuyne",
+        "slug":             "mercury",
+        "type":             "dark"
+    },
+
+    "background":               "#080C26",
+    "foreground":               "#F1D38C",
+    "first":                    "#3A4F94",
+    "second":                   "#9C5B43",
+    "third":                    "#2971C8",
+    "fourth":                   "#503D59",
+    "fifth":                    "#7DEDF4",
+    "comment":                  "#1F286A",
+    "string":                   "#BECFDC",
+    "number":                   "#BECFDC",
+    "selection_foreground":     "#FFFFFF",
+    "selection_background":     "#3A2B47",
+    "selection_border":         "#3A2B47",
+    "find_foreground":          "#FFFFFF",
+    "find_background":          "#3A2B47",
+    "line_highlight":           "#0B0F30",
+    "caret":                    "#FFFFFF",
+    "invisibles":               "#0B0F30",
+    "scope_guide":              "#1F286A",
+    "brackets":                 "#1F286A",
+    "bracket_content":          "#9C5B43",
+    "invalid_foreground":       "#FFFFFF",
+    "invalid_background":       "#B12100",
+    "docblock":                 "#1F286A",
+    "variables":                "#9C5B43"
+}
