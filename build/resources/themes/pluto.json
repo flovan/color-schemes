@@ -1,0 +1,36 @@
+{
+    "theme": {
+        "name":             "Pluto",
+        "description":      "Pluto",
+        "author":           "Florian Vanthuyne",
+        "slug":             "pluto",
+        "type":             "light"
+    },
+
+    "background":               "#180e04",
+    "foreground":               "#ae8f73",
+    "first":                    "#866a52",
+    "second":                   "#a38468",
+    "third":                    "#97785c",
+    "fourth":                   "#9a7757",
+    "fifth":                    "#dcb28a",
+    "comment":                  "#412a1a",
+    "string":                   "#f2c8a2",
+    "number":                   "#f2c8a2",
+    "selection_foreground":     "#FFFFFF",
+    "selection_background":     "#301e10",
+    "selection_border":         "#301e10",
+    "find_foreground":          "#FFFFFF",
+    "find_background":          "#301e10",
+    "line_highlight":           "#26180a",
+    "caret":                    "#FFFFFF",
+    "invisibles":               "#26180a",
+    "scope_guide":              "#412a1a",
+    "brackets":                 "#412a1a",
+    "bracket_content":          "#a38468",
+    "braces":                   "#412a1a",
+    "invalid_foreground":       "#FFFFFF",
+    "invalid_background":       "#B12100",
+    "docblock":                 "#412a1a",
+    "variables":                "#a38468"
+}

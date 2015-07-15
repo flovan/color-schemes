@@ -1,0 +1,36 @@
+{
+    "theme": {
+        "name":             "Jupiter",
+        "description":      "Jupiter",
+        "author":           "Florian Vanthuyne",
+        "slug":             "jupiter",
+        "type":             "dark"
+    },
+
+    "background":               "#131210",
+    "foreground":               "#A2B9CB",
+    "first":                    "#403b35",
+    "second":                   "#594c43",
+    "third":                    "#544d43",
+    "fourth":                   "#bd936d",
+    "fifth":                    "#84502b",
+    "comment":                  "#292824",
+    "string":                   "#F0F8EB",
+    "number":                   "#F0F8EB",
+    "selection_foreground":     "#FFFFFF",
+    "selection_background":     "#884E26",
+    "selection_border":         "#884E26",
+    "find_foreground":          "#FFFFFF",
+    "find_background":          "#884E26",
+    "line_highlight":           "#23221E",
+    "caret":                    "#FFFFFF",
+    "invisibles":               "#23221E",
+    "scope_guide":              "#292824",
+    "brackets":                 "#292824",
+    "bracket_content":          "#594c43",
+    "braces":                   "#292824",
+    "invalid_foreground":       "#FFFFFF",
+    "invalid_background":       "#B12100",
+    "docblock":                 "#292824",
+    "variables":                "#594c43"
+}

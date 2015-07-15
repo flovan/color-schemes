@@ -41,8 +41,8 @@
 
     // Get file paths to all previews.
     $schemes = array_merge(
-        glob(__DIR__.'/../preview/*.html'),
-        glob(__DIR__.'/../preview/*/*.html')
+        glob(__DIR__.'/../export/preview/*.html'),
+        glob(__DIR__.'/../export/preview/*/*.html')
     );
 
     // Shuffle for.. err.. fun!

@@ -23,6 +23,12 @@ To build the themes, `cd` into `./build` and install the dependencies with [Comp
 php composer.phar install  
 ```
 
+Install [CutyCapt](https://github.com/ezkl/capit) if you want screenshots of the previews
+
+```sh
+brew install cuty_capt
+``
+
 Then run Raincolor (still from `./build`) to populate `./export` with the themes, screenshots and HTML previews:
 
 ```sh

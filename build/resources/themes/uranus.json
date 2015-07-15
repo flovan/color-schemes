@@ -1,0 +1,36 @@
+{
+    "theme": {
+        "name":             "Uranus",
+        "description":      "Uranus",
+        "author":           "Florian Vanthuyne",
+        "slug":             "uranus",
+        "type":             "dark"
+    },
+
+    "background":               "#202b2d",
+    "foreground":               "#8cb1b7",
+    "first":                    "#455d5f",
+    "second":                   "#66878c",
+    "third":                    "#526e71",
+    "fourth":                   "#a8cfd4",
+    "fifth":                    "#b8dee1",
+    "comment":                  "#293b3b",
+    "string":                   "#d5fbfc",
+    "number":                   "#d5fbfc",
+    "selection_foreground":     "#41595b",
+    "selection_background":     "#cbf1f2",
+    "selection_border":         "#cbf1f2",
+    "find_foreground":          "#41595b",
+    "find_background":          "#cbf1f2",
+    "line_highlight":           "#2a393c",
+    "caret":                    "#FFFFFF",
+    "invisibles":               "#2a393c",
+    "scope_guide":              "#293b3b",
+    "brackets":                 "#293b3b",
+    "bracket_content":          "#66878c",
+    "braces":                   "#293b3b",
+    "invalid_foreground":       "#FFFFFF",
+    "invalid_background":       "#B12100",
+    "docblock":                 "#293b3b",
+    "variables":                "#66878c"
+}

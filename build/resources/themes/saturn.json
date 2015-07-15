@@ -1,0 +1,36 @@
+{
+    "theme": {
+        "name":             "Saturn",
+        "description":      "Saturn",
+        "author":           "Florian Vanthuyne",
+        "slug":             "saturn",
+        "type":             "dark"
+    },
+
+    "background":               "#23201B",
+    "foreground":               "#9d8d5c",
+    "first":                    "#43402d",
+    "second":                   "#79714d",
+    "third":                    "#877b51",
+    "fourth":                   "#626246",
+    "fifth":                    "#a99a61",
+    "comment":                  "#3c3427",
+    "string":                   "#ddcb8d",
+    "number":                   "#ddcb8d",
+    "selection_foreground":     "#FFFFFF",
+    "selection_background":     "#5b634b",
+    "selection_border":         "#5b634b",
+    "find_foreground":          "#FFFFFF",
+    "find_background":          "#5b634b",
+    "line_highlight":           "#27241f",
+    "caret":                    "#FFFFFF",
+    "invisibles":               "#27241f",
+    "scope_guide":              "#3c3427",
+    "brackets":                 "#3c3427",
+    "bracket_content":          "#877b51",
+    "braces":                   "#3c3427",
+    "invalid_foreground":       "#FFFFFF",
+    "invalid_background":       "#B12100",
+    "docblock":                 "#3c3427",
+    "variables":                "#877b51"
+}

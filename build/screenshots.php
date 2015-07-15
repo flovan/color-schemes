@@ -11,7 +11,7 @@
     );
 
     // Output path for screenshots.
-    $out = __DIR__.'/../export/screenshots/';
+    $out = __DIR__.'/../export/screenshots';
 
     // Ensure that the directory exists.
     @mkdir($out, 0777, true);

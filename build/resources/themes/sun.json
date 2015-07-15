@@ -28,6 +28,7 @@
     "scope_guide":              "#4E320A",
     "brackets":                 "#4E320A",
     "bracket_content":          "#C54305",
+    "braces":                   "#4E320A",
     "invalid_foreground":       "#FFFFFF",
     "invalid_background":       "#B12100",
     "docblock":                 "#4E320A",
