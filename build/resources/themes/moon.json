@@ -9,9 +9,9 @@
 
     "background":               "#232323",
     "foreground":               "#E2E4A5",
-    "first":                    "#666666",
-    "second":                   "#a2a2a2",
-    "third":                    "#444444",
+    "first":                    "#555555",
+    "second":                   "#7c7c7c",
+    "third":                    "#737373",
     "fourth":                   "#696651",
     "fifth":                    "#FFFFFF",
     "comment":                  "#424242",
