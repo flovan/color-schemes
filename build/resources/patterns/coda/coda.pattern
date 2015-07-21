@@ -1,13 +1,10 @@
 /*
 ======================================================================
-{{ theme.name }}
+Interstellar - {{ theme.name }}
 ======================================================================
-A Sublime Text 2 / Textmate theme.
 Copyright (c) {{ year }} {{ theme.author }}.
 Released under the MIT License <http://opensource.org/licenses/MIT>
-======================================================================
-Find more themes at : https://github.com/daylerees/colour-schemes
-======================================================================
+http://flovan.me/interstellar
 */
 
 comment {
